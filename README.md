@@ -21,9 +21,6 @@ async def on_ready():
 async def say_hi(ctx):
     await ctx.send('Hi')
 
-# Add other commands and event handlers as needed
-
-# Run the bot with your token
 bot.run('ODM0OTY2NDU0NDczNzE5ODM4.GuxXin.gEaNLog5Nl-519jTdV_7tLUxr-qsBNSjeOZJlM')
 
 
