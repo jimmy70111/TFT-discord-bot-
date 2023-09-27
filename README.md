@@ -6,6 +6,7 @@ Proof of Concept
 
 I make an bot with the following code and the command allow the bot to say hi-
 
+/*
 import os
 import random
 import discord
@@ -24,7 +25,7 @@ async def say_hi(ctx):
 bot.run('ODM0OTY2NDU0NDczNzE5ODM4.GuxXin.gEaNLog5Nl-519jTdV_7tLUxr-qsBNSjeOZJlM')
 
 
-
+*/
 
 ![image](https://github.com/jimmy70111/TFT-discord-bot-/assets/123014046/4c251f3b-a4ef-4e9d-be6c-8de261176e13)
 
