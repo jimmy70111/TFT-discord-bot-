@@ -2,7 +2,7 @@
 
 Proof of Concept
 
- The following showcase me making an discord bot which later I can implement with the riot API to make the discord bot, Teamfight Tactics related
+ The following showcase me making an discord bot which later I can implement with the riot API to make the discord bot as I have to email to get an API key to make this work , Teamfight Tactics related
 
 I make an bot with the following code and the command allow the bot to say hi-
 
