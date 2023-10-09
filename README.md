@@ -11,7 +11,9 @@ I made an bot with the following code and the command allow the bot to say hi in
 
 how to add API and fetch real time data
 
-- 
+- give then API key I goten from the company riot_api_key = 'RGAPI-44e82c49-1f92-4482-81e8-433d8c528f53'
+- I can use import request(python) allowing the api to be used for the discord bot events and commands. 
+  
 
 how to compile?
 
